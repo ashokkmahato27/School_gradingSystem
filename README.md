@@ -52,7 +52,6 @@ This program is a simple **School Grading System** that:
 
 ## 🚀 Installation
 
-```bash
 # Clone the repository
 git clone https://github.com/yourusername/school-grading-system.git
 
