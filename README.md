@@ -77,8 +77,8 @@ python grading_system.py
 | Percentage	| Grade |	Status |
 | --- | --- | --- |
 | 90 - 100 |	A	| ⭐ Excellent |
-80 - 89	B	✅ Very Good |
-70 - 79	| C	| 👍 Good |
+| 80 - 89 |	B	| ✅ Very Good |
+| 70 - 79	| C	| 👍 Good |
 | 60 - 69 |	D |	📝 Satisfactory |
 | Below 60	| F	| ❌ Fail |
 
